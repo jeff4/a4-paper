@@ -6,9 +6,11 @@ import LinkButton from "./LinkButton.astro";
 import logoPNG from "/assets/logo.png";
 import logoSVG from "/assets/logo.svg";
 
+/* i'm not sure how this interface works...
 export interface Props {
-  activeNav?: "posts" | "tags" | "about" | "search";
+  activeNav?: "posts" | "tags" | "about" | "Stepfunction" | "search";
 }
+*/
 
 const { activeNav } = Astro.props;
 ---
@@ -75,6 +77,10 @@ const { activeNav } = Astro.props;
               About
             </a>
           </li>
+          <li>
+			<a href="https://www.stepfunction.org" class={activeNav === "Stepfunction" ? "active" : ""}>
+              Stepfunction Podcast
+            </a>
           <li>
             <LinkButton
               href="/search"
@@ -159,9 +165,12 @@ const { activeNav } = Astro.props;
   nav ul li:nth-child(5) {
     @apply col-span-1;
   }
+  /* JH: by commenting out this selector, the 'wavy underline' indicating
+   * which page we are on is taken away.
   nav a.active {
     @apply underline decoration-wavy decoration-2 underline-offset-4;
   }
+   */
   nav a.active svg {
     @apply fill-skin-accent;
   }
