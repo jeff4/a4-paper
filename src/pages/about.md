@@ -3,34 +3,24 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
 
-## Tech Stack
+### Tech Stack
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+[The AstroPaper blog theme](https://github.com/satnaing/astro-paper) is a minimal, responsive [AstroJS](https://astro.build) starter, served by [Netlify](https://en.wikipedia.org/wiki/Netlify). AstroPaper uses mostly vanilla JavaScript with a small amount of ReactJS for interactivity. Type-safety by [Typescript](https://en.wikipedia.org/wiki/TypeScript) and styling by [TailwindCSS](https://tailwindcss.com).
 
-## Features
+#### Some AstroPaper Features
 
-Here are certain features of this site.
-
-- fully responsive and accessible
+- Fully responsive and accessible
 - SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+- Light & dark modes
+- Fuzzy search
+- Draft posts
+- Pagination
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+#### Credit
+The [Astropaper theme](https://github.com/satnaing/astro-paper) was created and licensed by [Sat Naing](https://github.com/satnaing).
+If you like Astropaper, please star/contribute to Sat's [GitHub repo](https://github.com/satnaing/astro-paper).  
