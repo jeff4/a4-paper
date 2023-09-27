@@ -10,7 +10,7 @@ title: "About"
 
 ### Tech Stack
 
-[The AstroPaper blog theme](https://github.com/satnaing/astro-paper) is a minimal, responsive [AstroJS](https://astro.build) starter, served by [Netlify](https://en.wikipedia.org/wiki/Netlify). AstroPaper uses mostly vanilla JavaScript with a small amount of ReactJS for interactivity. Type-safety by [Typescript](https://en.wikipedia.org/wiki/TypeScript) and styling by [TailwindCSS](https://tailwindcss.com).
+I built this site using [AstroJS](https://astro.build) and the [AstroPaper blog theme](https://github.com/satnaing/astro-paper) created by [Sat Naing](https://github.com/satnaing). AstroPaper mostly uses vanilla JavaScript with a tiny amount of ReactJS for interactivity. Type-safety by [Typescript](https://en.wikipedia.org/wiki/TypeScript) and styling by [TailwindCSS](https://tailwindcss.com). Site is served by [Netlify](https://en.wikipedia.org/wiki/Netlify). 
 
 #### Some AstroPaper Features
 
@@ -21,6 +21,7 @@ title: "About"
 - Draft posts
 - Pagination
 
+
+
 #### Credit
-The [Astropaper theme](https://github.com/satnaing/astro-paper) was created and licensed by [Sat Naing](https://github.com/satnaing).
 If you like Astropaper, please star/contribute to Sat's [GitHub repo](https://github.com/satnaing/astro-paper).  
