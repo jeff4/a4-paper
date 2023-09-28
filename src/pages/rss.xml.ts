@@ -23,5 +23,5 @@ export async function get() {
       pubDate: new Date(data.pubDatetime),
     })),
   });
- */
 }
+ */
