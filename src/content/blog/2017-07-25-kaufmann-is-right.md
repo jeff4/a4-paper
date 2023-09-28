@@ -12,7 +12,7 @@ tags:
   - facebook
   - ai
 ogImage: ""
-description: The analogy that the brain is like a computer is a dangerous one, and blocks the progress of AI
+description: The analogy that the brain is like a computer is a dangerous one, and blocks the progress of AI.
 ---
 There's been a [bit of kerfluffle](https://techcrunch.com/2017/07/25/elon-musk-mark-zuckerberg-artificial-intelligence/) the last few days between "AI optimists" like Mark Zuckerberg and "pessimists" like Elon Musk. 
 
