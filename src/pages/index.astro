@@ -26,7 +26,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <h1>Welcome!</h1>
 
       <p>
-		This is my home on the internet.
+	  This is my home on the internet. I co-host <a href="https://www.stepfunction.org"><strong>Stepfunction</strong></a>–a podcast about generative AI, share fun photos about organic chemistry at <a href="https://www.instagram.com/dailymolecule/">Daily Molecule</a>, and write about <a href="/tags/art">art</a>, <a href="/tags/ai">AI</a>, and other <a href="/tags">topics</a>.
+
       </p>
       {
         // only display if at least one social link is enabled
@@ -112,6 +113,24 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   #hero p {
     @apply my-2;
   }
+
+
+
+
+  /* begin JH edits to CSS -- makes hyperlinks more visible for body text in hero class*/
+  #hero a {
+    text-decoration:underline;
+	text-decoration-style:dotted;
+  }
+  #hero a:hover {
+    color: #ff6b01;
+  }
+  /* end JH edits to CSS */
+
+
+
+
+
   .social-wrapper {
     @apply mt-4 flex flex-col sm:flex-row sm:items-center;
   }
