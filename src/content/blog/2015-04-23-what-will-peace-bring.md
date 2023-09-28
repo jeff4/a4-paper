@@ -10,7 +10,6 @@ tags:
   - history
 ogImage: ""
 description: Historian David Blight on the end of Reconstruction.
-
 ---
 I've been listening to [this excellent series of lectures on the Civil War](http://oyc.yale.edu/history/hist-119) given by David Blight at Yale in 2008. In [Lecture 24](http://oyc.yale.edu/transcript/565/hist-119) - *Retreat from Reconstruction: The Grant Era and Paths to 'Southern Redemption'*, Prof. Blight starts by saying:
 
