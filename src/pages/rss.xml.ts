@@ -1,9 +1,14 @@
+/*
 import rss from "@astrojs/rss";
 import { getCollection } from "astro:content";
 import getSortedPosts from "@utils/getSortedPosts";
 import slugify from "@utils/slugify";
 import { SITE } from "@config";
+*/
 
+/* 
+ * JH 9/27/2023: commenting out rss.xml function
+ * 
 export async function get() {
   const posts = await getCollection("blog");
   const sortedPosts = getSortedPosts(posts);
@@ -18,4 +23,5 @@ export async function get() {
       pubDate: new Date(data.pubDatetime),
     })),
   });
+ */
 }
