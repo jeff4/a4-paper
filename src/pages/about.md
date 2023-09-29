@@ -36,4 +36,4 @@ AstroPaper is made with [AstroJS](https://astro.build), vanilla JavaScript, and 
 Stop by and say hello at [Instagram](https://www.instagram.com/dailymolecule/).
 
 ## Credit
-If you like Astropaper, please star/contribute to Sat's [GitHub repo](https://github.com/satnaing/astro-paper).  
+If you like AstroPaper, please star/contribute to Sat's [GitHub repo](https://github.com/satnaing/astro-paper).  
