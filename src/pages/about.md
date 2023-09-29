@@ -1,11 +1,22 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Me"
 ---
 
 <div>
   <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
 </div>
+
+<h4 class="text-2xl tracking-wider sm:text-3xl">About Me
+</h4>
+
+I love to learn and teach. Some recent obsessions: traditional and simplified Mandarin characters, obscure Unix programs from the 70's/80's, HBO's *Succession*, and finding ways to <a href="https://www.stepfunction.org">make AI approachable</a> to new students.
+
+During the last 10 years, I've taught myself vector calculus, linear algebra, [organic chemistry](https://www.instagram.com/dailymolecule), and post-1789 revolutionary history. I have traditional degrees from Harvard and MIT; but lifelong learning has been more fun! 🤓 
+
+Professionally, I've worked in Silicon Valley for 20+ years at Microsoft, Amazon, Box, and several startups.
+
+<Hr />
 
 ## Tech Stack
 
@@ -18,10 +29,10 @@ AstroPaper is made with [AstroJS](https://astro.build), vanilla JavaScript, and 
 - Fully responsive and accessible
 - Light & dark modes
 - Fuzzy search
-- Simple and lovely design
-- Loads and runs fast b/c AstroJS primarily ships HTML+CSS–almost no client-side Javascript
+- Simple, stylish design
+- Loads and runs fast because AstroJS primarily ships HTML+CSS with virtually no client-side Javascript
 
-## Contact me
+## Contact Me
 Stop by and say hello at [Instagram](https://www.instagram.com/dailymolecule/).
 
 ## Credit
