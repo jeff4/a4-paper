@@ -10,6 +10,7 @@ tags:
   - machine-learning
   - tech-history
   - ai
+  - open-source
   - stepfunction
   - podcast
   - microsoft
