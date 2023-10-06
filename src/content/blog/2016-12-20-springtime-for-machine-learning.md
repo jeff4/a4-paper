@@ -14,6 +14,7 @@ tags:
   - research
   - AI
   - gpu
+  - integrated-circuit
 ogImage: ""
 description:
   Machine learning

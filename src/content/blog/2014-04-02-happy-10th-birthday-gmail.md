@@ -11,7 +11,7 @@ tags:
   - product-mgt
 ogImage: ""
 description:
-  Thoughts on email and communications as Gmail turns 10 years old
+  Thoughts on email and communications as Gmail turns 10 years old.
 ---
 Gmail celebrated it's 10th birthday yesterday -- April 1st, 2014.  It's hard to remember how revolutionary Gmail was at the time. *Time* published [an excellent retrospective](http://time.com/43263/gmail-10th-anniversary/) which quotes the current Google PM:
 

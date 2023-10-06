@@ -10,6 +10,7 @@ tags:
   - machine-learning
   - tech-history
   - ai
+  - research
   - prompt-engineering
   - fine-tuning
   - rag

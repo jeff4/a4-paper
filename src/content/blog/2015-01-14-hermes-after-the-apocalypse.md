@@ -11,7 +11,7 @@ tags:
   - marketing
 ogImage: ""
 description:
-  Disruption theory as applied to consumer brands generally and luxury brands in particular
+  Disruption theory as applied to consumer brands generally and luxury brands in particular.
 ---
 
 Is classical [disruption theory](http://en.wikipedia.org/wiki/Disruptive_innovation#The_theory) good at explaining consumer markets?  In this piece from late 2013,  [Ben Thompson said no](http://stratechery.com/2013/clayton-christensen-got-wrong/).
