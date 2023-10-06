@@ -3,7 +3,7 @@ author: Jeff Hwang
 pubDatetime: 2023-03-28T23:58:00Z
 title: Stepfunction Episode 8
 postSlug: 2023-03-28-stepfunction-ep-08
-featured: true
+featured: false
 draft: false
 tags:
   - tech
