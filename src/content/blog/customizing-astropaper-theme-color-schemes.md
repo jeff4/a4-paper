@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - color-schemes
-  - docs
+  - javascript
 ogImage: ""
 description:
   How you can enable/disable light & dark mode; and customize color schemes
