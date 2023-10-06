@@ -13,6 +13,7 @@ tags:
   - facebook
   - research
   - AI
+  - gpu
 ogImage: ""
 description:
   Machine learning

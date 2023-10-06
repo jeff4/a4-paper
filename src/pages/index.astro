@@ -26,7 +26,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       <h1>Welcome!</h1>
 
       <p>
-	  This is my home on the internet. I co-host <a href="https://www.stepfunction.org"><strong>Stepfunction</strong></a>–a podcast about generative AI, share fun photos about organic chemistry at <a href="https://www.instagram.com/dailymolecule/">Daily Molecule</a>, and write about <a href="/tags/art">art</a>, <a href="/tags/ai">AI</a>, <a href="/tags/tech-history">tech history</a> and other <a href="/tags">topics</a>.
+	  This is my home on the internet. I co-host <a href="/tags/stepfunction"><strong>Stepfunction</strong></a>–a podcast about generative AI, share fun photos about organic chemistry at <a href="https://www.instagram.com/dailymolecule/">Daily Molecule</a>, and write about <a href="/tags/art">art</a>, <a href="/tags/ai">AI</a>, <a href="/tags/tech-history">tech history</a> and other <a href="/tags">topics</a>.
 
       </p>
       {
@@ -41,12 +41,11 @@ const socialCount = SOCIALS.filter(social => social.active).length;
     </section>
 
     <Hr />
-	
-	<!-- commenting out Featured section in homepage 
+
     { featuredPosts.length > 0 && (
         <>
           <section id="featured">
-            <h2>Featured</h2>
+            <h2>Featured Articles</h2>
             <ul>
               {featuredPosts.map(({ data }) => (
                 <Card
@@ -61,8 +60,6 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </>
       )
     }
-	-->
-
 
     <section id="recent-posts">
       <h2>Recent Posts</h2>

@@ -3,7 +3,7 @@ author: Jeff Hwang
 pubDatetime: 2019-04-04T14:47:00Z
 title: Turing Award Recognizes Bengio, Hinton, and LeCun 
 postSlug: 2019-04-04-turing-award-recognizes-bengio-hinton-lecun
-featured: false
+featured: true
 draft: false
 tags:
   - tech
@@ -12,7 +12,7 @@ tags:
   - ai
 ogImage: ""
 description:
-  Neural networks from 1986-2014.
+  An opinionated history of neural networks from 1986-2014.
 ---
 
 Last week the "Nobel Prize of Computing" was awarded to three pioneers of deep learning and I decided to revisit the history of neural networks from 1986-2014.

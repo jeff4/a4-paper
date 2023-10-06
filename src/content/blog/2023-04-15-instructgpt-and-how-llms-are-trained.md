@@ -3,7 +3,7 @@ author: Jeff Hwang
 pubDatetime: 2023-04-15T18:53:00Z
 title: InstructGPT and How LLMs are Trained
 postSlug: 2019-04-15-instructgpt-and-how-llms-are-trained
-featured: false
+featured: true
 draft: false
 tags:
   - tech
@@ -12,6 +12,8 @@ tags:
   - ai
   - prompt-engineering
   - fine-tuning
+  - rag
+  - rhlf
   - rag
 ogImage: ""
 description:

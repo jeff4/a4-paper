@@ -1,8 +1,8 @@
 ---
 author: Jeff Hwang
-pubDatetime: 2023-10-06T04:26:00Z
+pubDatetime: 2023-10-06T12:26:00Z
 title: Stepfunction Episode 14 
-postSlug: 2023-10-05-stepfunction-ep-14
+postSlug: 2023-10-06-stepfunction-ep-14
 featured: false
 draft: false
 tags:
@@ -12,9 +12,12 @@ tags:
   - ai
   - stepfunction
   - podcast
+  - microsoft
+  - facebook
+  - google
 ogImage: ""
 description:
-  Seymour and Jeff are back from summer break to discuss Microsoft's September event, Llama-2, and 4 waves of AI adoption
+  Seymour and Jeff are back from summer break to discuss Microsoft's September event, Llama-2, and 4 waves of AI adoption.
 ---
 
 Seymour and I discuss Microsoft's continuing transition out of the PC era, open-source LLMs exemplified by Llama-2, and general discussion of business use cases, adoption, and Elad Gil's piece on [Early Days of AI and the AI Hype Cycle](https://blog.eladgil.com/p/early-days-of-ai).

@@ -10,7 +10,7 @@ title: "About Me"
 <h4 class="text-2xl tracking-wider sm:text-3xl">About Me
 </h4>
 
-I love to learn and teach. Some recent obsessions: traditional and simplified Mandarin characters, obscure Unix programs from the 70's/80's, HBO's *Succession*, and finding ways to <a href="https://www.stepfunction.org">make AI approachable</a> to new students.
+I love to learn and teach. Some recent obsessions: traditional and simplified Mandarin characters, obscure Unix programs from the 70's/80's, HBO's *Succession*, and finding ways to <a href="/tags/podcast">make AI approachable</a> to new students.
 
 During the last 10 years, I've taught myself vector calculus, linear algebra, [organic chemistry](https://www.instagram.com/dailymolecule), and post-1789 revolutionary history. I have traditional degrees from Harvard and MIT; but lifelong learning has been more fun! 🤓 
 
