@@ -12,7 +12,7 @@ tags:
   - art
 ogImage: ""
 description:
-  Joan of Arc at the Metropolitan Museum of Art in NYC
+  Joan of Arc at the Metropolitan Museum of Art in NYC.
 ---
 Today was my last visit to Joan of Arc for a while. Over the next few posts, I'll explore why this painting is interesting.
 

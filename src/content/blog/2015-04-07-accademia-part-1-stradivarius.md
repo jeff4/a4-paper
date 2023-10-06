@@ -12,7 +12,7 @@ tags:
   - travel
 ogImage: ""
 description:
-  Musical instruments in the Accademia Galleria in Florence
+  Musical instruments in the Accademia Galleria in Florence.
 ---
 
 Today, I crossed the street from my Airbnb on Via Ricasoli to the [Accademia Gallery or Galleria dell'Accademia](http://en.wikipedia.org/wiki/Galleria_dell'Accademia). The Accademia is most famous as the home of [Michaelangelo's *David*](http://en.wikipedia.org/wiki/David_(Michelangelo)). I'll have a post up with my observations on *David* in the next few days. 

@@ -13,7 +13,7 @@ tags:
   - travel
 ogImage: ""
 description:
-  More on Gerrit von Honthorst
+  More on Gerrit von Honthorst.
 ---
 
 After visiting the Accademia on Tuesday morning, I spent the afternoon at the Uffizi again.  (I *love* this Friends of Uffizi card with unlimited repeat visits.) Upon reviewing Honthorst's Adoration of the Shephards again, I have additional thoughts. First, here is the wall text:

@@ -12,7 +12,7 @@ tags:
   - art
 ogImage: ""
 description:
-  Joan of Arc at the Metropolitan Museum of Art in NYC
+  Joan of Arc at the Metropolitan Museum of Art in NYC.
 
 ---
 layout: single

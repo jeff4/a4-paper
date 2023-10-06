@@ -26,11 +26,11 @@ AstroPaper is made with [AstroJS](https://astro.build), vanilla JavaScript, and 
 
 ### Cool AstroPaper Features
 
-- Fully responsive and accessible
-- Light & dark modes
-- Fuzzy search
 - Simple, stylish design
-- Loads and runs fast because AstroJS primarily ships HTML+CSS with virtually no client-side Javascript
+- Fully responsive and accessible
+- Super-fast search that allows fuzzy matching
+- Light & dark modes
+- Loads and runs quickly because AstroJS primarily ships HTML+CSS with virtually no client-side Javascript
 
 ## Contact Me
 Stop by and say hello at [Instagram](https://www.instagram.com/dailymolecule/).

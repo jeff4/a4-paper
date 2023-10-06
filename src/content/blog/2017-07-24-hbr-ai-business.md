@@ -11,7 +11,7 @@ tags:
   - ai
 ogImage: ""
 description:
-  Short link to Brynjolfsson and McAfee
+  Short link to Brynjolfsson and McAfee.
 
 ---
 
