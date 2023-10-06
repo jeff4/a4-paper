@@ -19,7 +19,7 @@ tags:
   - rhlf
 ogImage: ""
 description:
-  The valley is abuzz discussing an AI strategy memo that is purported to be leaked from Google.
+  The valley is abuzz discussing an AI strategy memo that is purported to have leaked from Google.
 ---
 
 A lot of buzz about an [apparently leaked strategy memo](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither) from within Google about how they "have no moate and neither does OpenAI". Larger conversation about AI supply chains, and analogies of gen AI to the rise of the PC and and Linux in early eras of computer history.

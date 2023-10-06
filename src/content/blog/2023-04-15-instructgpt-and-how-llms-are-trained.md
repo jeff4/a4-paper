@@ -17,7 +17,7 @@ tags:
   - rag
 ogImage: ""
 description:
-  Notes on Ari Seff's January 2023 video on InstructGPT, prompt engineering, and RAG
+  Notes on Ari Seff's January 2023 video on InstructGPT, prompt engineering, and RAG.
 ---
 
 Some quick personal notes on [Ari Seff's](https://www.ariseff.com) excellent and still relevant [January, 2023](https://www.youtube.com/watch?v=VPRSBzXzavo) YouTube on "ChatGPT and how it's trained". In fact, the video is broader than just OpenAI's work; it describes the general process by which most LLMs constructed: (1) First, train a foundation model with unsupervised data; and then (2) fine-tune with instructions and ground-truth supervised label question+answer pairs; and finally (3) improve quality with [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback). 
