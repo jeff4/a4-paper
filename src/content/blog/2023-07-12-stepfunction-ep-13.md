@@ -13,6 +13,8 @@ tags:
   - stepfunction
   - podcast
   - apple
+  - nvidia
+  - microsoft
 ogImage: ""
 description:
   We talk about the launch of the Apple Vision Pro, Inflection AI's Pi chatbot, and other news.
