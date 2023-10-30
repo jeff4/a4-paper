@@ -13,6 +13,7 @@ tags:
   - stepfunction
   - podcast
   - openai
+  - midjourney
 ogImage: ""
 description:
   New Stepfunction episode exploring image generation as opposed to the usual text generation from LLMs.

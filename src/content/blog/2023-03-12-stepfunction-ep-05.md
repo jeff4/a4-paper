@@ -13,6 +13,7 @@ tags:
   - stepfunction
   - podcast
   - openai
+  - midjourney
 ogImage: ""
 description:
   Image generationg and generative AI continue to get attention by general publications like The New Yorker.
