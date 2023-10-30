@@ -22,6 +22,6 @@ description:
   Jeff and Seymour talk about recent updates from OpenAI, rank image generators, and Jeff's AI workshop.
 ---
 
-Seymour and I rank image generators from best to worst: (1) [Midjourney](https://docs.midjourney.com), (2) [Google Search Generative Experience (SGE)](https://blog.google/products/search/generative-ai-search/), and finally (3) OpenAI's [DALL-E](https://openai.com/dall-e-3). 
+Seymour and I rank image generators from best to worst: (1) [Midjourney](https://docs.midjourney.com), (2) [Google Search Generative Experience (SGE)](https://blog.google/products/search/generative-ai-search/), and finally (3) OpenAI's [DALL-E](https://openai.com/dall-e-3). We briefly discuss the new [OpenAI feature announcements](https://www.theverge.com/2023/9/25/23886699/chatgpt-pictures-voice-commands-ai-chatbot-openai). Finally we discuss the topics and lessons from Jeff's recent AI workshop.
 
 Link to [episode page](https://www.stepfunction.org/episode-16-midjourney-vs-google-sge-vs-openai-dall-e-3) and it's available on all major podcast platforms, including Apple, Google/YouTube, Spotify, Amazon, etc. As usual, just search for 'stepfunction' with no spaces in your favorite podcast player.
