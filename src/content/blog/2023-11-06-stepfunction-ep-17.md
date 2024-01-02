@@ -11,6 +11,7 @@ tags:
   - stepfunction
   - openai
   - apple
+  - podcast
 ogImage: ""
 description:
   Jeff and Seymour talk about AI in movies and the new Humane AI Pin

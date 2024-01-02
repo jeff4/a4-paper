@@ -16,6 +16,7 @@ tags:
   - tech
   - tech-history
   - facebook
+  - podcast
 ogImage: ""
 description:
   Jeff and Seymour review the dramatic changes at OpenAI
