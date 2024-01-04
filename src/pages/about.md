@@ -10,7 +10,7 @@ title: "About Me"
 <h4 class="text-2xl tracking-wider sm:text-3xl">About Me
 </h4>
 
-I love to learn and teach. Some recent obsessions: traditional and simplified Mandarin characters, obscure Unix programs from the 70's/80's,<a href="https://en.wikipedia.org/wiki/The_Curse_(American_TV_series)"> *The Curse* </a> (Emma Stone, Nathan Fielder, and Benny Safdie), and finding ways to <a href="/tags/podcast">make AI approachable</a> to new students.
+I love to learn and teach. Some recent obsessions: <a href="/tags/podcast">making AI approachable</a> to new students, <a href="https://en.wikipedia.org/wiki/The_Curse_(American_TV_series)"> *The Curse* </a> (Emma Stone, Nathan Fielder, Benny Safdie), traditional and simplified Mandarin characters, and obscure Unix programs from the 70's/80's.
 
 During the last 10 years, I've taught myself vector calculus, linear algebra, [organic chemistry](https://www.instagram.com/dailymolecule), and post-1789 revolutionary history. I have traditional degrees from Harvard and MIT; but lifelong learning has been more fun! 🤓 
 
@@ -22,7 +22,7 @@ Professionally, I've worked in Silicon Valley for 20+ years at Microsoft, Amazon
 
 I built this site by forking the [AstroPaper blog theme](https://github.com/satnaing/astro-paper) created by [Sat Naing](https://github.com/satnaing). 
 
-AstroPaper is made with [AstroJS](https://astro.build), vanilla JavaScript, and a tiny amount of [ReactJS](https://react.dev) for interactivity. Sat used [Typescript](https://en.wikipedia.org/wiki/TypeScript) and [TailwindCSS](https://tailwindcss.com) for type safety and styling, respectively. Site is served by [Netlify](https://en.wikipedia.org/wiki/Netlify).
+AstroPaper is made with [AstroJS](https://astro.build) which means I mostly edit HTML and Markdown files with the occasional change to CSS. The site uses vanilla JavaScript/Typescript, a tiny amount of [ReactJS](https://react.dev) for interactivity, and [TailwindCSS](https://tailwindcss.com) for styling. Site is served by [Netlify](https://en.wikipedia.org/wiki/Netlify).
 
 ### Cool AstroPaper Features
 
