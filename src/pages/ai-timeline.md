@@ -13,7 +13,7 @@ title: "AI Timeline"
 
 ## 1950's
 * **1956** - Dartmouth Conference with John McCarthy.
-* **1957** - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) builds the mechanical [first implementation of the perceptron](https://en.wikipedia.org/wiki/Perceptron#Mark_I_Perceptron_machine) at the Cornell.
+* **1957** - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) builds the first mechanical [implementation of the perceptron](https://en.wikipedia.org/wiki/Perceptron#Mark_I_Perceptron_machine) at the Cornell.
 
 
 ## 1960's
