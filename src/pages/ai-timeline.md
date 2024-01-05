@@ -25,6 +25,7 @@ title: "AI Timeline"
 
 ## 1980's
 * **1982** - J.J. Hopfield publishes 'Neural networks and physical systems with emergent collective computational abilities' about Hopfield networks.
+* **1984** Douglas Lenat begins the [Cyc project](https://en.wikipedia.org/wiki/Cyc) witht he goal of building a complete knowledge base that codified the 'millions of pieces of knowledge that compose human common sense'
 * **1986** - Hinton (along with co-authors Rumelhart and Williams) popularized [the backpropagation algorithm](https://en.wikipedia.org/wiki/Backpropagation#History) and published empirical results of its usefulness in [this landmark paper.](https://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
 * **1988** - Bourland and Kamp 'Auto-association by multilayer perceptrons and singular value decomposition'.
 * **1989** 
@@ -44,11 +45,11 @@ title: "AI Timeline"
 * **2004** - Hinton secured a small but important amount of funding from the Canadian Institute for Adavanced Research (CIFAR) to [convene a continuing group of people to work on neural networks](https://www.wired.com/2014/01/geoffrey-hinton-deep-learning/). The two co-directors for this [CIFAR program](https://www.cifar.ca/cifarnews/2019/03/27/turing-award-honours-cifar-s-pioneers-of-ai) were Bengio and LeCun. This working group was critical to advancing what eventually became deep learning.
 * **2006** - Hinton and Osindero published a [seminal paper on Deep Belief Networks](https://www.cs.toronto.edu/~hinton/absps/fastnc.pdf) which showed that ANNs with multiple hidden layers could actually perform reasonably well -- despite the poor reputation of ANNs at the time. 
 
-## 2010's
+## 2010's and Beyond
 * **2012** - Two of Hinton's students, Alex Krizhevsky and Ilya Sutskever built a deep CNN called [AlexNet](https://en.wikipedia.org/wiki/AlexNet) that used an algorithm they dubbed SuperVision [to win the annual ImageNet competition](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) by a resounding margin. 
 * **2014** 
 	* Bengio and his student [Ian Goodfellow](https://www.theverge.com/2019/4/5/18296473/apple-google-ai-research-poached-ian-goodfellow) published the [first paper](https://arxiv.org/abs/1406.2661) on [Generative Adversarial Networks (GANs)](https://en.wikipedia.org/wiki/Generative_adversarial_network).
 	* Cho, Bahdanau, Bengio et al. publish two papers 'Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation' and 'On the Properties of Neural Machine Translation: Encoder-Decoder Approaches'. Together, they bring the encode-decode architecture to deep NNs. Forerunner to Transformer paper.
 * **2015** - Sohl-Dickstein et al. publish 'Deep Unsupervised Learning using Nonequilibrium Thermodynamics' which introduces diffusion models from physics into deep learning. These models are the foundation of image generation networks like DALL-E, Midjourney, and Stable Diffusion.
 * **2017** - Transformer architecture introduced in Google paper 'Attention is All You Need'.
-* **2023** - ChatGPT launches in late November, 2023.
+* **2022** - ChatGPT launches in late November, 2022.
