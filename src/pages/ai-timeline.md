@@ -12,11 +12,14 @@ title: "AI Timeline"
 * **1949** - [Donald Hebb](https://en.wikipedia.org/wiki/Donald_O._Hebb) proposes Hebbian Learning in *The Organization of Behavior*.  
 
 ## 1950's
-* **1956** - Dartmouth Conference with John McCarthy.
+* **1956**
+	* Dartmouth Conference with John McCarthy.
+	* Newell and Simon create [Logic Theorist](https://en.wikipedia.org/wiki/Logic_Theorist) one of the first symbolic AI programs.
 * **1957** - [Frank Rosenblatt](https://en.wikipedia.org/wiki/Frank_Rosenblatt) builds the first mechanical [implementation of the perceptron](https://en.wikipedia.org/wiki/Perceptron#Mark_I_Perceptron_machine) at Cornell.
 
 
 ## 1960's
+* **1964** - Joseph Weizenbaum begins work on [ELIZA](https://en.wikipedia.org/wiki/ELIZA), a natural language processing early chatbot.
 * **1969** - MIT mathematicians Minsky and Papert publish *Perceptrons*, their famous critique of single-layer perceptrons leading to the first AI winter. In other words, perceptrons can only classify data that is linearly separable; they cannot implement the XOR function.
 
 ## 1970's
