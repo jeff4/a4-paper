@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/timeLayout.astro
-title: "AI Timeline from frontmatter"
+title: "AI Timeline"
 ---
 ## 1940's
 * **1943** - [McCulloh](https://en.wikipedia.org/wiki/Warren_Sturgis_McCulloch) and [Pitts](https://en.wikipedia.org/wiki/Walter_Pitts) introduce the Perceptron in their paper 'A logical calculus of ideas immanent in nervous activity'.
