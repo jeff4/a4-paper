@@ -2,10 +2,8 @@
 layout: ../layouts/timeLayout.astro
 title: "AI Timeline from frontmatter"
 ---
-
-
 ## 1940's
-* **1943** - McCulloh and Pitts publish Perceptron paper.
+* **1943** - [McCulloh](https://en.wikipedia.org/wiki/Warren_Sturgis_McCulloch) and [Pitts](https://en.wikipedia.org/wiki/Walter_Pitts) introduce the Perceptron in their paper 'A logical calculus of ideas immanent in nervous activity'.
 * **1946** - First [Macy Cybernetics Conference](https://en.wikipedia.org/wiki/Macy_conferences#Cybernetics_Conferences) held in New York. They would continue through 1953.
 * **1948**
 	* Norbert Weiner publishes first edition of [*Cybernetics*](https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine).
@@ -21,7 +19,7 @@ title: "AI Timeline from frontmatter"
 * **1969** - MIT mathematicians Minsky and Papert publish *Perceptrons*, their famous critique of single-layer perceptrons leading to the first AI winter. In other words, perceptrons can only classify data that is linearly separable; they cannot implement the XOR function.
 
 ## 1970's
-* **1974** - Paul Werbos' early formulation of the backpropagation algorithm to train ANNs but not published as part of his PhD. See Rumelhart et al in 1985.
+* **1974** - As part of his PhD work, Paul Werbos develops an early version of the backpropagation algorithm. Although this will be a critical step in training multi-layer perceptrons, Werbos does not include it in his dissertation because of the skepticism about perceptrons during this AI winter.
 
 
 ## 1980's
