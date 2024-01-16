@@ -70,4 +70,6 @@ title: "AI Timeline"
 
 
 ### Sources
+* GBC, list relevant chapters
+* Currently read through The Importance of Brute Force at Kurenkov
 * [A Brief History of Neural Nets and Deep Learning](https://www.skynettoday.com/overviews/neural-net-history) by Andrewy Kurenkov. First published in 2016, last updated September, 2020.
