@@ -40,7 +40,7 @@ title: "AI Timeline"
 
 
 ## 1990's
-* **1992** Redford Neal introduces the belief net as an update to Boltzmann machines in 'Connectionist learning of belief networks'. Belief nets learn much faster than Boltzmann machines do. Also Boltzmann machines are an example, ike diffusion models, of borrowing energy models from physics to connectionism.
+* **1992** - Redford Neal introduces the belief net as an update to Boltzmann machines in 'Connectionist learning of belief networks'. Belief nets learn much faster than Boltzmann machines do. Also Boltzmann machines are an example, ike diffusion models, of borrowing energy models from physics to connectionism.
 * **1993** 
 	* Hinton and Zemel 'Autoencoders, Minimum Description Length and Helmholtz Free Energy' introduce autoencoders as a method for unsupervised learning where ANNs can learn approximate probability distributions.
 	* Problems with Recurrent Neural Networks described in Bengio 'A Connectionst Approach to Speech Recognition'.
