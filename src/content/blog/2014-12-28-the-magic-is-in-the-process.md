@@ -10,8 +10,7 @@ tags:
   - product-mgt
 ogImage: ""
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+    Steve Jobs on ideas vs. execution in building products
 ---
 It's frequently said in Silicon Valley that good ideas are easy but execution is hard. When building products, practical experimentation is more important than pure imagination.
 
