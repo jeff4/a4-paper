@@ -10,7 +10,7 @@ title: "About Me"
 <h4 class="text-2xl tracking-wider sm:text-3xl">About Me
 </h4>
 
-I love to learn and teach. Some recent obsessions: <a href="/tags/podcast">making AI approachable</a> to new students, <a href="https://en.wikipedia.org/wiki/The_Curse_(American_TV_series)"> *The Curse* </a> (Emma Stone, Nathan Fielder, Benny Safdie), traditional and simplified Mandarin characters, and obscure Unix programs from the 70's/80's.
+I love to learn and teach. Some recent obsessions: <a href="/tags/podcast">making AI approachable</a> to a broader audience, obscure Unix programs from the 70's/80's, and getting my head around the 1990s Scheme version [the Wizard book](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)--no, not the [JavaScript edition](https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/)!
 
 During the last 10 years, I've taught myself vector calculus, linear algebra, [organic chemistry](https://www.instagram.com/dailymolecule), and post-1789 revolutionary history. I have traditional degrees from Harvard and MIT; but lifelong learning has been more fun! 🤓 
 
