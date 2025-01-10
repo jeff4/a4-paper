@@ -2,7 +2,7 @@
 author: Jeff Hwang
 pubDatetime: 2014-04-02T17:25:00Z
 title: Happy 10th birthday Gmail!
-postSlug: 2014-05-15-brand-as-a-lighthouse
+postSlug: 2014-04-02-happy-birthday-gmail
 featured: false
 draft: false
 tags:
