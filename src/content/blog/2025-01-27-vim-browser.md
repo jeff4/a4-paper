@@ -1,12 +1,13 @@
 ---
 author: Jeff Hwang
-pubDatetime: 2025-01-29T21:31:00Z
+pubDatetime: 2025-01-27T21:31:00Z
 title: Vim in the Browser
-postSlug: 2025-01-29-vim-browser
+postSlug: 2025-01-27-vim-browser
 featured: false
 draft: false
 tags:
   - tech
+  - vim
 ogImage: ""
 description:
   First experiments with vim motions in the browser
