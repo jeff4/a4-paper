@@ -13,7 +13,7 @@ tags:
   - gpu
 ogImage: ""
 description:
-  An brief history of neural networks from 1986-2014.
+  A brief history of neural networks from 1986-2014.
 ---
 
 Last week the "Nobel Prize of Computing" was awarded to three pioneers of deep learning and I decided to revisit the history of neural networks from 1986-2014.
